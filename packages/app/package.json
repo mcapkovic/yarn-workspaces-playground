@@ -1,8 +1,8 @@
 {
-    "name": "app",
+    "name": "@my-playground/app",
     "version": "1.0.0",
     "main": "src/index.js",
     "dependencies": {
-        "shared-utils": "1.0.0"
+        "@my-playground/shared-utils": "1.0.0"
       }
   }

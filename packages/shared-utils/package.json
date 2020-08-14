@@ -1,5 +1,5 @@
 {
-    "name": "shared-utils",
+    "name": "@my-playground/shared-utils",
     "version": "1.0.0",
     "main": "src/index.js"
 }

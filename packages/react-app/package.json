@@ -1,5 +1,5 @@
 {
-  "name": "react-app",
+  "name": "@my-playground/react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "shared-utils": "1.0.0"
+    "@my-playground/shared-utils": "1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
