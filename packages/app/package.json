@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "main": "src/index.js",
     "dependencies": {
-        "app-shared": "1.0.0"
+        "shared-utils": "1.0.0"
       }
   }

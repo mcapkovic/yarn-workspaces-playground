@@ -1,3 +1,3 @@
-const shared = require('app-shared');
+const shared = require('shared-utils');
 
 console.log(`multiply 2 and 3 = ${shared.multiply(2, 3)}`);
