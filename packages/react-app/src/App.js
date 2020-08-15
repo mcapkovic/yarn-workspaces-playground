@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import shared from 'shared-utils';
+import shared from '@my-playground/shared-utils';
 
 function App() {
   return (
