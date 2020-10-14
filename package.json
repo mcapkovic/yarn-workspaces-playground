@@ -1,4 +1,10 @@
 {
     "private": true,
-    "workspaces": ["packages/*"]
+    "workspaces": ["packages/*"],
+    "scripts": {
+      "react-app": "yarn workspace @my-playground/react-app start"
+    }
   }
+
+
+  

@@ -10,7 +10,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
     "@my-playground/shared-utils": "1.0.0",
-    "babel-jest": "^24.9.0"
+    "babel-jest": "^24.9.0",
+    "typescript-package": "0.1.0",
+    "jest": "24.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
