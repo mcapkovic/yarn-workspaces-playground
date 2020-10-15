@@ -12,3 +12,5 @@ export const ExampleComponent = ({ text }: Props) => {
 export * from './Button'
 // @ts-ignore
 export * from './Input'
+
+export { useWindowResize, useThrottledFn } from 'beautiful-react-hooks';

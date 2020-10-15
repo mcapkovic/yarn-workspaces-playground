@@ -2,7 +2,9 @@
     "private": true,
     "workspaces": ["packages/*"],
     "scripts": {
-      "react-app": "yarn workspace @my-playground/react-app start"
+      "react-app": "yarn workspace @my-playground/react-app start",
+      "start-ts2": "yarn workspace typescript-package2 start",
+      "build-ts2": "yarn workspace typescript-package2 build"
     }
   }
 
